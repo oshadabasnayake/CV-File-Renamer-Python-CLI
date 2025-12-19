@@ -2,10 +2,6 @@
 
 A lightweight Python CLI tool to rename CV files for job applications.
 
-# CV File Renamer (Python CLI)
-
-A lightweight Python CLI tool that automatically renames a CV file into a clean, professional, ATS-friendly format based on the job title.
-
 > ⚠️ Note:  
 > This tool **only renames the file**. It does **not** modify the content of the CV in any way.
 
