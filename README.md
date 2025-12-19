@@ -20,29 +20,6 @@ It is intentionally designed to be **simple, fast, and practical**.
 
 ---
 
-## Naming Format
-
-The CV file is renamed using the following format:
-
-Oshada_Basnayake_<Job_Title_With_Underscores>_CV.<original_extension>
-
-
-### Example
-
-**Before**
-
-final_cv_v3.pdf
-
-
-**After**
-
-Oshada_Basnayake_Site_Reliability_Engineer_CV.pdf
-
-
-The original file extension (`pdf`, `docx`, etc.) is preserved.
-
----
-
 ## How It Works
 
 1. Place **only one CV file** in a temporary folder
